@@ -1,0 +1,71 @@
+body{
+    font-family: 'Work Sans';
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin-top: 70px;
+}
+
+img{
+    height: 100px;
+}
+.image{
+    border-radius: 20px;
+    margin-left: 10px;
+}
+
+.first{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chip{
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.second{
+    margin-top: 30px;
+    text-align: center;
+    
+}
+.update{
+font-size: large;
+margin-left: 50px;
+
+ 
+    background-color: #0a0a23;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    min-height: 30px;
+    min-width: 120px;
+}
+.uninstall{
+font-size: large;
+background-color: #0a0a23;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    min-height: 30px;
+    min-width: 120px;
+}
+
+.description{
+    margin-top: 80px;
+    background-color: rgb(200, 217, 231);
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+}
